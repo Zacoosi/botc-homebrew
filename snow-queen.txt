@@ -1,0 +1,18 @@
+  {
+    "id": "snowqueen__zcih"
+    "name": "Snow Queen",
+    "image": [
+      "https://raw.githubusercontent.com/Zacoosi/botc-homebrew/refs/heads/main/processed-icon%20(2).png",
+      "https://raw.githubusercontent.com/Zacoosi/botc-homebrew/refs/heads/main/processed-icon%20(2).png"
+    ],
+    "team": "demon",
+    "ability": "Each night*, choose a player: they die. If you die & correctly guess who all are, evil wins. 1 good player knows a Snow Queen is in play.",
+    "firstNight": 20.2,
+    "otherNight": 41.1,
+    "firstNightReminder": "Wake the good player who 'KNOWS' and show the Snow Queen character token.",
+    "otherNightReminder": "The Snow Queen chooses a player.",
+    "reminders": [
+      "KNOWS",
+      "DEAD"
+    ]
+  
